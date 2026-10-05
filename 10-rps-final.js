@@ -7,7 +7,7 @@
   updateScoreElement();
 
   function playerGame(playerMove) {
-    const randomNum = Math.random();
+    
     let computerMove = pickComputerMove();
     let result = '';
 
