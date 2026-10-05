@@ -10,7 +10,7 @@ The project allows the player to select Rock, Paper, or Scissors and compete aga
 
 # Link to Website
 
-[Play Rock Paper Scissors](YOUR-LIVE-WEBSITE-LINK)
+[Play Rock Paper Scissors](https://jdbvortex.github.io/Rock-Paper-Scissors/)
 
 # Project Overview
 
