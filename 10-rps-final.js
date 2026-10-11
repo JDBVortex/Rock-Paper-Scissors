@@ -25,7 +25,7 @@
       if (computerMove === 'rock') {
         result = 'You Win.';
       } else if (computerMove === 'paper') {
-        result = 'Tie';
+        result = 'Tie.';
       } else if (computerMove === 'scissors') {
         result = 'You Lose.';
       }
